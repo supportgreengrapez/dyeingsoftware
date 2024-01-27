@@ -1,0 +1,100 @@
+[18-Mar-2023 05:52:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Controllers/Auth/LoginController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Controllers/Auth/LoginController.php on line 8
+[21-May-2023 09:37:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Controllers/Auth/RegisterController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Controllers/Auth/RegisterController.php on line 11
+[21-May-2023 20:53:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Controllers/Auth/ResetPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Controllers/Auth/ResetPasswordController.php on line 8
+[31-May-2023 05:31:43 America/New_York] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[21-Jun-2023 19:26:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[21-Jun-2023 23:09:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Controllers/Auth/LoginController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Controllers/Auth/LoginController.php on line 8
+[22-Jun-2023 04:40:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Controllers/Auth/RegisterController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Controllers/Auth/RegisterController.php on line 11
+[22-Jun-2023 05:26:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Controllers/Auth/ResetPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Controllers/Auth/ResetPasswordController.php on line 8
+[09-Sep-2023 20:26:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Controllers/Auth/ResetPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Controllers/Auth/ResetPasswordController.php on line 8
+[12-Sep-2023 18:35:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Controllers/Auth/LoginController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Controllers/Auth/LoginController.php on line 8
+[16-Sep-2023 04:38:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Controllers/Auth/RegisterController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Controllers/Auth/RegisterController.php on line 11
+[16-Sep-2023 05:32:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[23-Oct-2023 19:29:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Controllers/Auth/LoginController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Controllers/Auth/LoginController.php on line 8
+[24-Oct-2023 02:10:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[24-Oct-2023 02:10:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Controllers/Auth/LoginController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Controllers/Auth/LoginController.php on line 8
+[24-Oct-2023 02:10:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Controllers/Auth/RegisterController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Controllers/Auth/RegisterController.php on line 11
+[24-Oct-2023 02:10:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Controllers/Auth/ResetPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Controllers/Auth/ResetPasswordController.php on line 8
+[30-Oct-2023 11:40:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Controllers/Auth/ResetPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Controllers/Auth/ResetPasswordController.php on line 8
+[09-Nov-2023 06:53:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[09-Nov-2023 18:23:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Controllers/Auth/RegisterController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Controllers/Auth/RegisterController.php on line 11
+[29-Nov-2023 15:14:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Controllers/Auth/LoginController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Controllers/Auth/LoginController.php on line 8
+[19-Dec-2023 22:16:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Controllers/Auth/ResetPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Controllers/Auth/ResetPasswordController.php on line 8
+[30-Dec-2023 16:19:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Controllers/Auth/RegisterController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Controllers/Auth/RegisterController.php on line 11
+[01-Jan-2024 23:37:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[07-Jan-2024 18:24:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Controllers/Auth/LoginController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Controllers/Auth/LoginController.php on line 8

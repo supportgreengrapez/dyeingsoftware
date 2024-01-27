@@ -1,0 +1,252 @@
+[09-May-2023 00:35:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Middleware\TrustHosts' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/TrustHosts.php on line 7
+[09-May-2023 00:36:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Fideloper\Proxy\TrustProxies' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/TrustProxies.php on line 8
+[09-May-2023 00:36:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[09-May-2023 00:39:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/EncryptCookies.php on line 7
+[09-May-2023 00:40:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/TrimStrings.php on line 7
+[09-May-2023 00:40:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Auth\Middleware\Authenticate' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/Authenticate.php on line 7
+[09-May-2023 00:41:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/CheckForMaintenanceMode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/CheckForMaintenanceMode.php on line 7
+[23-May-2023 23:50:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/EncryptCookies.php on line 7
+[27-May-2023 00:00:10 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/TrustHosts.php on line 7
+[27-May-2023 10:44:21 America/New_York] PHP Fatal error:  Uncaught Error: Class "Fideloper\Proxy\TrustProxies" not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/TrustProxies.php on line 8
+[27-May-2023 13:43:26 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[28-May-2023 02:48:10 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/Authenticate.php on line 7
+[29-May-2023 22:31:25 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/TrimStrings.php on line 7
+[31-May-2023 21:30:24 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode" not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/CheckForMaintenanceMode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/CheckForMaintenanceMode.php on line 7
+[24-Jun-2023 09:24:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Auth\Middleware\Authenticate' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/Authenticate.php on line 7
+[24-Jun-2023 09:31:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/CheckForMaintenanceMode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/CheckForMaintenanceMode.php on line 7
+[24-Jun-2023 09:50:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/EncryptCookies.php on line 7
+[24-Jun-2023 11:48:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/TrimStrings.php on line 7
+[24-Jun-2023 15:22:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Middleware\TrustHosts' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/TrustHosts.php on line 7
+[24-Jun-2023 19:08:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Fideloper\Proxy\TrustProxies' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/TrustProxies.php on line 8
+[24-Jun-2023 21:39:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[21-Aug-2023 07:22:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/EncryptCookies.php on line 7
+[21-Aug-2023 07:23:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/TrimStrings.php on line 7
+[21-Aug-2023 07:25:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Fideloper\Proxy\TrustProxies' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/TrustProxies.php on line 8
+[21-Aug-2023 07:27:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Middleware\TrustHosts' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/TrustHosts.php on line 7
+[21-Aug-2023 07:29:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Auth\Middleware\Authenticate' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/Authenticate.php on line 7
+[21-Aug-2023 07:29:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[21-Aug-2023 07:29:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/CheckForMaintenanceMode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/CheckForMaintenanceMode.php on line 7
+[07-Sep-2023 10:13:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Middleware\TrustHosts' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/TrustHosts.php on line 7
+[10-Sep-2023 08:26:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Auth\Middleware\Authenticate' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/Authenticate.php on line 7
+[10-Sep-2023 21:54:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Fideloper\Proxy\TrustProxies' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/TrustProxies.php on line 8
+[12-Sep-2023 08:48:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/TrimStrings.php on line 7
+[16-Sep-2023 08:51:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[18-Sep-2023 11:15:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/EncryptCookies.php on line 7
+[21-Sep-2023 18:12:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/CheckForMaintenanceMode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/CheckForMaintenanceMode.php on line 7
+[22-Oct-2023 18:47:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Auth\Middleware\Authenticate' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/Authenticate.php on line 7
+[22-Oct-2023 18:47:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/CheckForMaintenanceMode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/CheckForMaintenanceMode.php on line 7
+[22-Oct-2023 18:47:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/EncryptCookies.php on line 7
+[22-Oct-2023 18:47:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/TrimStrings.php on line 7
+[22-Oct-2023 18:47:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Middleware\TrustHosts' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/TrustHosts.php on line 7
+[22-Oct-2023 18:47:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Fideloper\Proxy\TrustProxies' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/TrustProxies.php on line 8
+[22-Oct-2023 18:47:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[30-Oct-2023 04:56:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Middleware\TrustHosts' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/TrustHosts.php on line 7
+[31-Oct-2023 04:24:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Auth\Middleware\Authenticate' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/Authenticate.php on line 7
+[31-Oct-2023 18:49:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/TrimStrings.php on line 7
+[03-Nov-2023 02:53:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Fideloper\Proxy\TrustProxies' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/TrustProxies.php on line 8
+[09-Nov-2023 11:51:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[09-Nov-2023 20:46:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/EncryptCookies.php on line 7
+[11-Nov-2023 17:53:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/CheckForMaintenanceMode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/CheckForMaintenanceMode.php on line 7
+[18-Dec-2023 11:33:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/TrimStrings.php on line 7
+[19-Dec-2023 01:36:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Auth\Middleware\Authenticate' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/Authenticate.php on line 7
+[19-Dec-2023 12:03:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Middleware\TrustHosts' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/TrustHosts.php on line 7
+[28-Dec-2023 01:09:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[29-Dec-2023 00:20:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Fideloper\Proxy\TrustProxies' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/TrustProxies.php on line 8
+[30-Dec-2023 23:09:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/EncryptCookies.php on line 7
+[31-Dec-2023 13:53:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/CheckForMaintenanceMode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/CheckForMaintenanceMode.php on line 7
+[25-Jan-2024 06:44:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Auth\Middleware\Authenticate' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/Authenticate.php on line 7
+[25-Jan-2024 06:44:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/EncryptCookies.php on line 7
+[25-Jan-2024 06:44:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/TrimStrings.php on line 7
+[25-Jan-2024 06:44:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Middleware\TrustHosts' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/TrustHosts.php on line 7
+[25-Jan-2024 06:44:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Fideloper\Proxy\TrustProxies' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/TrustProxies.php on line 8
+[25-Jan-2024 06:45:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[25-Jan-2024 06:45:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/CheckForMaintenanceMode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Http/Middleware/CheckForMaintenanceMode.php on line 7

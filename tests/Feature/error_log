@@ -1,0 +1,44 @@
+[08-May-2023 19:12:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/byowmbia/general.biltybooks.com/dyeing/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/tests/Feature/ExampleTest.php on line 8
+[19-May-2023 01:59:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/byowmbia/general.biltybooks.com/dyeing/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/tests/Feature/ExampleTest.php on line 8
+[17-Jun-2023 11:09:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/byowmbia/general.biltybooks.com/dyeing/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/tests/Feature/ExampleTest.php on line 8
+[30-Jun-2023 07:09:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/byowmbia/general.biltybooks.com/dyeing/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/tests/Feature/ExampleTest.php on line 8
+[03-Aug-2023 20:00:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/byowmbia/general.biltybooks.com/dyeing/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/tests/Feature/ExampleTest.php on line 8
+[21-Aug-2023 11:22:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/byowmbia/general.biltybooks.com/dyeing/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/tests/Feature/ExampleTest.php on line 8
+[10-Sep-2023 18:48:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/byowmbia/general.biltybooks.com/dyeing/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/tests/Feature/ExampleTest.php on line 8
+[02-Nov-2023 04:56:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/byowmbia/general.biltybooks.com/dyeing/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/tests/Feature/ExampleTest.php on line 8
+[30-Dec-2023 20:47:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/byowmbia/general.biltybooks.com/dyeing/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/tests/Feature/ExampleTest.php on line 8
+[15-Jan-2024 20:34:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/byowmbia/general.biltybooks.com/dyeing/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/tests/Feature/ExampleTest.php on line 8
+[25-Jan-2024 08:19:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/byowmbia/general.biltybooks.com/dyeing/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/tests/Feature/ExampleTest.php on line 8

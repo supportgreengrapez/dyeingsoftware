@@ -1,0 +1,68 @@
+[05-Aug-2022 08:34:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/byowmbia/general.yoc.com.pk/dyeing/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.yoc.com.pk/dyeing/bootstrap/app.php on line 14
+[17-Aug-2022 07:25:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/byowmbia/general.yoc.com.pk/dyeing/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.yoc.com.pk/dyeing/bootstrap/app.php on line 14
+[27-Sep-2022 01:01:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/byowmbia/general.biltybooks.com/dyeing/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/bootstrap/app.php on line 14
+[27-Sep-2022 01:01:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/byowmbia/general.biltybooks.com/dyeing/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/bootstrap/app.php on line 14
+[27-Sep-2022 01:01:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/byowmbia/general.biltybooks.com/dyeing/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/bootstrap/app.php on line 14
+[08-May-2023 15:36:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/byowmbia/general.biltybooks.com/dyeing/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/bootstrap/app.php on line 14
+[22-May-2023 11:48:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/byowmbia/general.biltybooks.com/dyeing/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/bootstrap/app.php on line 14
+[15-Jun-2023 07:49:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/byowmbia/general.biltybooks.com/dyeing/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/bootstrap/app.php on line 14
+[17-Jun-2023 07:22:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/byowmbia/general.biltybooks.com/dyeing/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/bootstrap/app.php on line 14
+[02-Aug-2023 23:44:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/byowmbia/general.biltybooks.com/dyeing/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/bootstrap/app.php on line 14
+[21-Aug-2023 10:58:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/byowmbia/general.biltybooks.com/dyeing/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/bootstrap/app.php on line 14
+[10-Sep-2023 02:32:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/byowmbia/general.biltybooks.com/dyeing/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/bootstrap/app.php on line 14
+[01-Nov-2023 13:16:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/byowmbia/general.biltybooks.com/dyeing/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/bootstrap/app.php on line 14
+[19-Dec-2023 05:10:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/byowmbia/general.biltybooks.com/dyeing/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/bootstrap/app.php on line 14
+[15-Jan-2024 20:32:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/byowmbia/general.biltybooks.com/dyeing/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/bootstrap/app.php on line 14
+[23-Jan-2024 07:33:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/byowmbia/general.biltybooks.com/dyeing/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/bootstrap/app.php on line 14
+[25-Jan-2024 05:22:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/byowmbia/general.biltybooks.com/dyeing/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/bootstrap/app.php on line 14

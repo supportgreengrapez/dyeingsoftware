@@ -1,0 +1,636 @@
+[05-Aug-2022 08:34:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.yoc.com.pk/dyeing/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.yoc.com.pk/dyeing/config/broadcasting.php on line 18
+[05-Aug-2022 08:34:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.yoc.com.pk/dyeing/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.yoc.com.pk/dyeing/config/app.php on line 16
+[05-Aug-2022 08:34:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.yoc.com.pk/dyeing/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.yoc.com.pk/dyeing/config/filesystems.php on line 16
+[05-Aug-2022 08:34:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.yoc.com.pk/dyeing/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.yoc.com.pk/dyeing/config/cache.php on line 21
+[05-Aug-2022 08:34:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.yoc.com.pk/dyeing/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.yoc.com.pk/dyeing/config/hashing.php on line 32
+[05-Aug-2022 08:34:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.yoc.com.pk/dyeing/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.yoc.com.pk/dyeing/config/database.php on line 18
+[05-Aug-2022 08:34:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.yoc.com.pk/dyeing/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.yoc.com.pk/dyeing/config/logging.php on line 20
+[05-Aug-2022 08:34:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.yoc.com.pk/dyeing/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.yoc.com.pk/dyeing/config/mail.php on line 16
+[05-Aug-2022 08:34:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.yoc.com.pk/dyeing/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.yoc.com.pk/dyeing/config/services.php on line 18
+[05-Aug-2022 08:34:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.yoc.com.pk/dyeing/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.yoc.com.pk/dyeing/config/queue.php on line 16
+[05-Aug-2022 08:34:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.yoc.com.pk/dyeing/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.yoc.com.pk/dyeing/config/session.php on line 21
+[05-Aug-2022 08:34:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/byowmbia/general.yoc.com.pk/dyeing/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.yoc.com.pk/dyeing/config/view.php on line 17
+[17-Aug-2022 07:25:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.yoc.com.pk/dyeing/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.yoc.com.pk/dyeing/config/app.php on line 16
+[17-Aug-2022 07:25:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.yoc.com.pk/dyeing/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.yoc.com.pk/dyeing/config/broadcasting.php on line 18
+[17-Aug-2022 07:25:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.yoc.com.pk/dyeing/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.yoc.com.pk/dyeing/config/filesystems.php on line 16
+[17-Aug-2022 07:25:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.yoc.com.pk/dyeing/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.yoc.com.pk/dyeing/config/cache.php on line 21
+[17-Aug-2022 07:25:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.yoc.com.pk/dyeing/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.yoc.com.pk/dyeing/config/database.php on line 18
+[17-Aug-2022 07:25:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.yoc.com.pk/dyeing/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.yoc.com.pk/dyeing/config/hashing.php on line 32
+[17-Aug-2022 07:25:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.yoc.com.pk/dyeing/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.yoc.com.pk/dyeing/config/mail.php on line 16
+[17-Aug-2022 07:25:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.yoc.com.pk/dyeing/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.yoc.com.pk/dyeing/config/services.php on line 18
+[17-Aug-2022 07:25:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.yoc.com.pk/dyeing/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.yoc.com.pk/dyeing/config/logging.php on line 20
+[17-Aug-2022 07:25:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.yoc.com.pk/dyeing/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.yoc.com.pk/dyeing/config/queue.php on line 16
+[17-Aug-2022 07:25:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.yoc.com.pk/dyeing/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.yoc.com.pk/dyeing/config/session.php on line 21
+[17-Aug-2022 07:25:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/byowmbia/general.yoc.com.pk/dyeing/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.yoc.com.pk/dyeing/config/view.php on line 17
+[27-Sep-2022 01:01:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/app.php on line 16
+[27-Sep-2022 01:01:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/byowmbia/general.biltybooks.com/dyeing/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/view.php on line 17
+[27-Sep-2022 01:01:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/app.php on line 16
+[27-Sep-2022 01:01:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/byowmbia/general.biltybooks.com/dyeing/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/view.php on line 17
+[08-May-2023 15:52:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/app.php on line 16
+[08-May-2023 15:53:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/mail.php on line 16
+[08-May-2023 15:53:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/cache.php on line 21
+[08-May-2023 15:53:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/broadcasting.php on line 18
+[08-May-2023 15:54:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/session.php on line 21
+[08-May-2023 15:55:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/database.php on line 18
+[08-May-2023 15:55:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/queue.php on line 16
+[08-May-2023 15:56:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/logging.php on line 20
+[08-May-2023 15:57:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/hashing.php on line 32
+[08-May-2023 15:58:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/byowmbia/general.biltybooks.com/dyeing/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/view.php on line 17
+[08-May-2023 15:59:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/filesystems.php on line 16
+[08-May-2023 15:59:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/services.php on line 18
+[21-May-2023 02:11:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/app.php on line 16
+[21-May-2023 05:20:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/queue.php on line 16
+[21-May-2023 12:18:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/session.php on line 21
+[22-May-2023 02:42:15 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/filesystems.php on line 16
+[23-May-2023 11:34:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/hashing.php on line 32
+[25-May-2023 11:47:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/services.php on line 18
+[25-May-2023 23:55:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/logging.php on line 20
+[26-May-2023 00:57:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/byowmbia/general.biltybooks.com/dyeing/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/view.php on line 17
+[26-May-2023 01:06:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/mail.php on line 16
+[26-May-2023 19:03:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/cache.php on line 21
+[27-May-2023 06:58:17 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/database.php on line 18
+[27-May-2023 11:09:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/broadcasting.php on line 18
+[17-Jun-2023 07:13:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/cache.php on line 21
+[17-Jun-2023 07:19:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/broadcasting.php on line 18
+[17-Jun-2023 07:23:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/mail.php on line 16
+[17-Jun-2023 07:24:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/session.php on line 21
+[17-Jun-2023 07:25:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/app.php on line 16
+[17-Jun-2023 07:26:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/queue.php on line 16
+[17-Jun-2023 08:44:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/logging.php on line 20
+[17-Jun-2023 08:48:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/hashing.php on line 32
+[17-Jun-2023 08:51:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/filesystems.php on line 16
+[17-Jun-2023 08:53:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/services.php on line 18
+[17-Jun-2023 08:54:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/byowmbia/general.biltybooks.com/dyeing/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/view.php on line 17
+[26-Jun-2023 01:19:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/app.php on line 16
+[26-Jun-2023 01:32:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/broadcasting.php on line 18
+[26-Jun-2023 01:41:14 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/cache.php on line 21
+[26-Jun-2023 02:47:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/database.php on line 18
+[26-Jun-2023 13:12:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/filesystems.php on line 16
+[26-Jun-2023 15:47:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/hashing.php on line 32
+[27-Jun-2023 03:12:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/logging.php on line 20
+[27-Jun-2023 04:44:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/mail.php on line 16
+[27-Jun-2023 12:39:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/queue.php on line 16
+[27-Jun-2023 13:33:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/services.php on line 18
+[27-Jun-2023 14:14:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/session.php on line 21
+[27-Jun-2023 15:02:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/byowmbia/general.biltybooks.com/dyeing/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/view.php on line 17
+[02-Aug-2023 23:44:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/app.php on line 16
+[02-Aug-2023 23:44:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/broadcasting.php on line 18
+[02-Aug-2023 23:44:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/cache.php on line 21
+[02-Aug-2023 23:44:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/database.php on line 18
+[02-Aug-2023 23:44:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/filesystems.php on line 16
+[02-Aug-2023 23:44:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/hashing.php on line 32
+[02-Aug-2023 23:44:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/logging.php on line 20
+[02-Aug-2023 23:44:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/mail.php on line 16
+[02-Aug-2023 23:44:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/queue.php on line 16
+[02-Aug-2023 23:44:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/services.php on line 18
+[02-Aug-2023 23:44:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/session.php on line 21
+[02-Aug-2023 23:44:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/byowmbia/general.biltybooks.com/dyeing/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/view.php on line 17
+[21-Aug-2023 10:51:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/queue.php on line 16
+[21-Aug-2023 10:53:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/filesystems.php on line 16
+[21-Aug-2023 10:53:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/app.php on line 16
+[21-Aug-2023 10:54:57 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/session.php on line 21
+[21-Aug-2023 10:55:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/mail.php on line 16
+[21-Aug-2023 10:55:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/cache.php on line 21
+[21-Aug-2023 10:56:17 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/logging.php on line 20
+[21-Aug-2023 10:56:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/hashing.php on line 32
+[21-Aug-2023 10:57:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/database.php on line 18
+[21-Aug-2023 10:57:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/broadcasting.php on line 18
+[21-Aug-2023 11:00:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/byowmbia/general.biltybooks.com/dyeing/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/view.php on line 17
+[21-Aug-2023 11:04:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/services.php on line 18
+[10-Sep-2023 21:07:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/session.php on line 21
+[12-Sep-2023 02:59:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/queue.php on line 16
+[15-Sep-2023 17:31:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/logging.php on line 20
+[16-Sep-2023 15:58:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/byowmbia/general.biltybooks.com/dyeing/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/view.php on line 17
+[16-Sep-2023 18:24:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/mail.php on line 16
+[17-Sep-2023 05:00:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/cache.php on line 21
+[17-Sep-2023 11:59:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/filesystems.php on line 16
+[17-Sep-2023 22:10:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/app.php on line 16
+[18-Sep-2023 21:19:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/broadcasting.php on line 18
+[19-Sep-2023 20:39:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/database.php on line 18
+[19-Sep-2023 23:03:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/hashing.php on line 32
+[25-Sep-2023 06:50:56 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/services.php on line 18
+[29-Oct-2023 13:35:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/session.php on line 21
+[31-Oct-2023 10:52:58 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/queue.php on line 16
+[08-Nov-2023 11:54:56 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/byowmbia/general.biltybooks.com/dyeing/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/view.php on line 17
+[09-Nov-2023 11:48:14 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/database.php on line 18
+[10-Nov-2023 02:00:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/broadcasting.php on line 18
+[10-Nov-2023 10:44:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/logging.php on line 20
+[10-Nov-2023 14:00:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/app.php on line 16
+[10-Nov-2023 20:52:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/cache.php on line 21
+[10-Nov-2023 21:40:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/filesystems.php on line 16
+[11-Nov-2023 12:15:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/mail.php on line 16
+[12-Nov-2023 18:01:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/hashing.php on line 32
+[22-Nov-2023 18:35:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/services.php on line 18
+[19-Dec-2023 22:03:57 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/queue.php on line 16
+[20-Dec-2023 05:59:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/session.php on line 21
+[28-Dec-2023 04:57:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/mail.php on line 16
+[29-Dec-2023 02:48:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/filesystems.php on line 16
+[29-Dec-2023 14:44:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/logging.php on line 20
+[30-Dec-2023 07:11:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/database.php on line 18
+[30-Dec-2023 12:26:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/cache.php on line 21
+[31-Dec-2023 07:54:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/app.php on line 16
+[31-Dec-2023 17:42:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/byowmbia/general.biltybooks.com/dyeing/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/view.php on line 17
+[01-Jan-2024 01:07:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/broadcasting.php on line 18
+[07-Jan-2024 22:07:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/hashing.php on line 32
+[15-Jan-2024 20:32:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/app.php on line 16
+[15-Jan-2024 20:32:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/broadcasting.php on line 18
+[15-Jan-2024 20:32:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/cache.php on line 21
+[15-Jan-2024 20:32:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/database.php on line 18
+[15-Jan-2024 20:33:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/filesystems.php on line 16
+[15-Jan-2024 20:33:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/hashing.php on line 32
+[15-Jan-2024 20:33:14 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/logging.php on line 20
+[15-Jan-2024 20:33:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/mail.php on line 16
+[15-Jan-2024 20:33:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/queue.php on line 16
+[15-Jan-2024 20:33:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/services.php on line 18
+[15-Jan-2024 20:33:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/session.php on line 21
+[15-Jan-2024 20:33:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/byowmbia/general.biltybooks.com/dyeing/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/view.php on line 17
+[17-Jan-2024 11:26:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/services.php on line 18
+[25-Jan-2024 08:15:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/byowmbia/general.biltybooks.com/dyeing/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/view.php on line 17
+[25-Jan-2024 08:16:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/broadcasting.php on line 18
+[25-Jan-2024 08:16:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/cache.php on line 21
+[25-Jan-2024 08:16:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/database.php on line 18
+[25-Jan-2024 08:16:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/services.php on line 18
+[25-Jan-2024 08:16:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/app.php on line 16
+[25-Jan-2024 08:16:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/session.php on line 21
+[25-Jan-2024 08:16:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/filesystems.php on line 16
+[25-Jan-2024 08:16:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/queue.php on line 16
+[25-Jan-2024 08:16:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/hashing.php on line 32
+[25-Jan-2024 08:16:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/logging.php on line 20
+[25-Jan-2024 08:16:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/byowmbia/general.biltybooks.com/dyeing/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/config/mail.php on line 16

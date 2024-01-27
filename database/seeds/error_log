@@ -1,0 +1,44 @@
+[08-May-2023 19:11:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/byowmbia/general.biltybooks.com/dyeing/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/database/seeds/DatabaseSeeder.php on line 5
+[17-May-2023 13:30:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/byowmbia/general.biltybooks.com/dyeing/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/database/seeds/DatabaseSeeder.php on line 5
+[17-Jun-2023 11:01:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/byowmbia/general.biltybooks.com/dyeing/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/database/seeds/DatabaseSeeder.php on line 5
+[18-Jun-2023 02:58:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/byowmbia/general.biltybooks.com/dyeing/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/database/seeds/DatabaseSeeder.php on line 5
+[04-Aug-2023 19:22:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/byowmbia/general.biltybooks.com/dyeing/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/database/seeds/DatabaseSeeder.php on line 5
+[21-Aug-2023 11:16:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/byowmbia/general.biltybooks.com/dyeing/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/database/seeds/DatabaseSeeder.php on line 5
+[12-Sep-2023 20:28:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/byowmbia/general.biltybooks.com/dyeing/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/database/seeds/DatabaseSeeder.php on line 5
+[31-Oct-2023 20:06:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/byowmbia/general.biltybooks.com/dyeing/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/database/seeds/DatabaseSeeder.php on line 5
+[19-Dec-2023 06:42:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/byowmbia/general.biltybooks.com/dyeing/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/database/seeds/DatabaseSeeder.php on line 5
+[15-Jan-2024 20:34:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/byowmbia/general.biltybooks.com/dyeing/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/database/seeds/DatabaseSeeder.php on line 5
+[25-Jan-2024 08:19:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/byowmbia/general.biltybooks.com/dyeing/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/database/seeds/DatabaseSeeder.php on line 5

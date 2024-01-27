@@ -1,0 +1,200 @@
+[08-May-2023 19:45:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/AuthServiceProvider.php on line 8
+[08-May-2023 19:46:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/AppServiceProvider.php on line 7
+[08-May-2023 19:48:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/EventServiceProvider.php on line 10
+[08-May-2023 19:48:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/RouteServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/RouteServiceProvider.php on line 8
+[08-May-2023 19:50:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/BroadcastServiceProvider.php on line 8
+[25-May-2023 04:27:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/AppServiceProvider.php on line 7
+[25-May-2023 07:25:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/RouteServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/RouteServiceProvider.php on line 8
+[25-May-2023 10:36:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/BroadcastServiceProvider.php on line 8
+[25-May-2023 17:57:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/EventServiceProvider.php on line 10
+[26-May-2023 00:45:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/AuthServiceProvider.php on line 8
+[19-Jun-2023 17:09:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/AppServiceProvider.php on line 7
+[19-Jun-2023 17:15:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/AuthServiceProvider.php on line 8
+[19-Jun-2023 17:29:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/BroadcastServiceProvider.php on line 8
+[19-Jun-2023 17:52:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/EventServiceProvider.php on line 10
+[19-Jun-2023 19:46:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/RouteServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/RouteServiceProvider.php on line 8
+[04-Aug-2023 19:20:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/AppServiceProvider.php on line 7
+[04-Aug-2023 19:20:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/AuthServiceProvider.php on line 8
+[04-Aug-2023 19:20:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/BroadcastServiceProvider.php on line 8
+[04-Aug-2023 19:20:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/EventServiceProvider.php on line 10
+[04-Aug-2023 19:20:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/RouteServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/RouteServiceProvider.php on line 8
+[21-Aug-2023 07:00:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/RouteServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/RouteServiceProvider.php on line 8
+[21-Aug-2023 07:01:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/AppServiceProvider.php on line 7
+[21-Aug-2023 07:03:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/BroadcastServiceProvider.php on line 8
+[21-Aug-2023 07:04:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/EventServiceProvider.php on line 10
+[21-Aug-2023 07:04:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/AuthServiceProvider.php on line 8
+[10-Sep-2023 06:57:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/RouteServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/RouteServiceProvider.php on line 8
+[11-Sep-2023 13:53:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/BroadcastServiceProvider.php on line 8
+[12-Sep-2023 16:08:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/AppServiceProvider.php on line 7
+[25-Sep-2023 23:45:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/AuthServiceProvider.php on line 8
+[26-Sep-2023 00:19:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/EventServiceProvider.php on line 10
+[29-Oct-2023 23:52:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/RouteServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/RouteServiceProvider.php on line 8
+[01-Nov-2023 15:10:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/BroadcastServiceProvider.php on line 8
+[02-Nov-2023 15:47:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/AppServiceProvider.php on line 7
+[18-Nov-2023 15:26:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/EventServiceProvider.php on line 10
+[22-Nov-2023 05:01:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/AuthServiceProvider.php on line 8
+[18-Dec-2023 21:43:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/RouteServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/RouteServiceProvider.php on line 8
+[19-Dec-2023 01:46:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/BroadcastServiceProvider.php on line 8
+[28-Dec-2023 07:25:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/AppServiceProvider.php on line 7
+[06-Jan-2024 15:39:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/EventServiceProvider.php on line 10
+[15-Jan-2024 20:31:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/AppServiceProvider.php on line 7
+[15-Jan-2024 20:31:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/AuthServiceProvider.php on line 8
+[15-Jan-2024 20:31:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/BroadcastServiceProvider.php on line 8
+[15-Jan-2024 20:31:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/EventServiceProvider.php on line 10
+[15-Jan-2024 20:31:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/RouteServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/RouteServiceProvider.php on line 8
+[16-Jan-2024 11:08:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/AuthServiceProvider.php on line 8
+[25-Jan-2024 06:42:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/AppServiceProvider.php on line 7
+[25-Jan-2024 06:42:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/EventServiceProvider.php on line 10
+[25-Jan-2024 06:42:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/AuthServiceProvider.php on line 8
+[25-Jan-2024 06:42:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/RouteServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/RouteServiceProvider.php on line 8
+[25-Jan-2024 06:42:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/byowmbia/general.biltybooks.com/dyeing/app/Providers/BroadcastServiceProvider.php on line 8
